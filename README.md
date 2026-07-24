@@ -1,4 +1,58 @@
-## Hi there 👋
+# Hi, I'm Michele 👋
+
+I am a recent MSc graduate in Mathematical Engineering, passionate about applying mathematics to **statistical learning, numerical modelling, and simulation**.
+
+My academic work has focused on statistical modelling, geostatistics, Bayesian inference, data analysis, and the development of computational methods for real-world applications.
+
+## Featured Projects
+
+### [Ground-Motion Site Effects in Italy](https://github.com/michelebirardi21/ground-motion-analysis-italy)
+
+**MSc thesis project**
+
+A geostatistical analysis of residual ground-motion site effects across Italy, based on seismic events that occurred in Central Italy.
+
+The project compares three modelling approaches:
+
+* a parametric stationary geostatistical model;
+* a locally adaptive non-stationary model based on Random Domain Decomposition;
+* a non-parametric geostatistical model.
+
+The analyses consider both **Peak Ground Acceleration (PGA)** and **Peak Ground Velocity (PGV)**, with the aim of modelling and mapping the spatial variability of site effects.
+
+---
+
+### [Cheers to Deals — Retail Beer Volumes and Promotions](https://github.com/beasisti/Applied_Project)
+
+**Applied Statistics project**
+
+A collaborative study of beer sales dynamics, developed as part of the Applied Statistics course during the 2023/2024 academic year.
+
+The analysis examines sales volumes for the 20 best-selling beers between February 2019 and February 2024, investigating how brands, individual products, and different types of promotion influence retail sales.
+
+---
+
+### [Bayesian Identification of Circadian Genes](https://github.com/gidiesse/circadian_genes_bayesian)
+
+**Bayesian Statistics project**
+
+A collaborative project focused on the identification of circadian genes through the analysis of gene-expression time series.
+
+The project had two main objectives:
+
+* identifying circadian genes by examining the periodic behaviour of their transcripts;
+* developing a Bayesian approach for detecting periodic signals while accounting for dependence across genes.
+
+The methodology combines Bayesian statistical modelling with computational inference techniques for the analysis of high-dimensional biological data.
+
+## Areas of Interest
+
+* Statistical learning and data analysis
+* Bayesian statistics
+* Geostatistics and spatial modelling
+* Numerical methods and simulation
+* Scientific computing
+
 
 <!--
 **michelebirardi21/michelebirardi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
