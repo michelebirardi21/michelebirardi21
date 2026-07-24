@@ -2,7 +2,7 @@
 
 I am a recent MSc graduate in Mathematical Engineering, passionate about applying mathematics to **statistical learning, numerical modelling, and simulation**.
 
-My academic work has focused on the practical application of these areas to complex problems across different scientific and engineering domains.
+Throughout my academic journey, I developed the mathematical, statistical, and computational skills needed to approach complex problems across these areas.
 
 ## Featured Projects
 
@@ -26,7 +26,7 @@ The analyses consider both **Peak Ground Acceleration (PGA)** and **Peak Ground 
 
 **Applied Statistics project**
 
-A collaborative study of beer sales dynamics, developed as part of the Applied Statistics course during the 2023/2024 academic year.
+A collaborative study of beer sales dynamics, developed as part of the Applied Statistics course.
 
 The analysis examines sales volumes for the 20 best-selling beers between February 2019 and February 2024, investigating how brands, individual products, and different types of promotion influence retail sales.
 
@@ -36,7 +36,8 @@ The analysis examines sales volumes for the 20 best-selling beers between Februa
 
 **Bayesian Statistics project**
 
-A collaborative project focused on the identification of circadian genes through the analysis of gene-expression time series.
+A collaborative project developed as part of the Bayesian Statistics course.
+The study focused on the identification of circadian genes through the analysis of gene-expression time series.
 
 The project had two main objectives:
 
