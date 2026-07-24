@@ -2,7 +2,7 @@
 
 I am a recent MSc graduate in Mathematical Engineering, passionate about applying mathematics to **statistical learning, numerical modelling, and simulation**.
 
-My academic work has focused on statistical modelling, geostatistics, Bayesian inference, data analysis, and the development of computational methods for real-world applications.
+My academic work has focused on the practical application of these areas to complex problems across different scientific and engineering domains.
 
 ## Featured Projects
 
@@ -44,14 +44,6 @@ The project had two main objectives:
 * developing a Bayesian approach for detecting periodic signals while accounting for dependence across genes.
 
 The methodology combines Bayesian statistical modelling with computational inference techniques for the analysis of high-dimensional biological data.
-
-## Areas of Interest
-
-* Statistical learning and data analysis
-* Bayesian statistics
-* Geostatistics and spatial modelling
-* Numerical methods and simulation
-* Scientific computing
 
 
 <!--
