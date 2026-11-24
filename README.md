@@ -6,6 +6,22 @@ Throughout my academic journey, I developed the mathematical, statistical, and c
 
 ## Featured Projects
 
+### [Retail Churn Prediction — Online Retail II](https://github.com/michelebirardi21/retail-churn-prediction)
+
+**End-to-end Data Science project**
+
+A reproducible churn prediction pipeline built on transactional e-commerce data (*Online Retail II*, UCI), focusing on temporal validation, probability calibration, and economic decision-making rather than metric chasing.
+
+Key components of the workflow:
+
+- **SQL data engineering (DuckDB):** deduplication, net-spend target definition (accounting for cancelled orders), and 32 behavioral/RFM features computed strictly before each snapshot date on active customers;
+- **Modelling and validation:** chronological train/validation/test split, expanding-window tuning for LightGBM, comparison against a recency baseline and regularized Logistic Regression, Platt vs. isotonic calibration, and paired bootstrap confidence intervals;
+- **Interpretability and business impact:** SHAP analysis, expected-value targeting policy, and a 3×3 sensitivity analysis across retention rates and contact costs.
+
+The pipeline is fully automated in Python and verified with `pytest` checks for data integrity and leakage prevention.
+
+---
+
 ### [Ground-Motion Site Effects in Italy](https://github.com/michelebirardi21/ground-motion-analysis-italy)
 
 **MSc thesis project**
